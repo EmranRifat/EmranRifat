@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm EmramRifat</h1>
-<h3 align="center">A passionate Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emranrifat&label=Profile%20views&color=0e75b6&style=flat" alt="emranrifat" /> </p>
+### Hi there 👋, I am Emran Hasan Rifat
+#### A passionate Web Developer 
+![Web Developer ](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emranrifat" alt="emranrifat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I’m a MERN Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication.
 
 - 🌱 I’m currently learning **NodeJS**
 
