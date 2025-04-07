@@ -4,15 +4,18 @@
 ![Web Developer](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
 ![Profile views](https://gpvc.arturio.dev/emranrifat)
 
-I'm a **Full-Stack Web Developer** with a strong emphasis on **Front-End Development**. Based in Dhaka, Bangladesh, I bring over **3 years of hands-on experience in Front-End** and more than **1 year in Full-Stack Development**. My passion lies in creating **pixel-perfect**, **responsive**, and **high-performance** web applications that deliver intuitive user experiences and solve real-world problems.
+I'm a **Full-Stack Web Developer** with a strong emphasis on **Front-End Development**, and hands-on experience working on **MERN stack projects** as a full-stack developer. Based in Dhaka, Bangladesh, I bring over **3 years of professional experience in Front-End Development** and more than **1 year in Full-Stack Development**.
 
-With a solid academic foundation—a B.Sc in CSE from **Daffodil International University (CGPA 3.5/4.0)**—I have applied my knowledge in real-life projects and team-based product development.
+My passion lies in building **pixel-perfect**, **responsive**, and **high-performance** web applications that deliver intuitive user experiences and solve real-world problems.
 
-I’ve successfully contributed to projects using the **MERN stack**, with **React.js, Next.js, and Tailwind CSS** forming the core of my front-end toolkit, and **Node.js, Express.js, MongoDB with Mongoose** supporting the back-end logic. I also excel at **team collaboration using Git**, especially working across **multiple branches in dynamic development environments**.
+With a solid academic foundation—a B.Sc in Computer Science & Engineering (CSE) from **Daffodil International University** with a CGPA of **3.5/4.0**—I’ve translated theoretical knowledge into practical expertise through real-life projects and collaborative, team-based product development.
+
+I’ve successfully contributed to multiple projects using the **MERN stack**, with **React.js, Next.js, and Tailwind CSS** forming the core of my front-end toolkit, and **Node.js, Express.js, and MongoDB (via Mongoose)** powering the backend. I'm also skilled in **collaborative team workflows using Git**, including **multi-branch version control in dynamic environments**.
+
 
 ---
 
-- 🌱 Currently working with **Node.js & TypeScript**
+- 🌱 Currently working with **Nextjs, Node.js & TypeScript**
 - 💡 Focused on **Front-End Development** within full-stack environments
 - 👯 Actively looking to collaborate on **MERN Stack Projects**
 - 💼 Explore my work at [My Portfolio](https://emranrifat.github.io/new-portfolio/)
@@ -35,7 +38,7 @@ I’ve successfully contributed to projects using the **MERN stack**, with **Rea
 
 **🔹 Front-End Development (Solid Skills)**  
 - Responsive Web Design, Pixel-perfect Layouts  
-- React.js, Next.js, Tailwind CSS, Bootstrap  
+- React.js, Next.js,TypeScript,Tailwind CSS, Bootstrap  
 - Advanced JavaScript (ES6+), HTML5, CSS3  
 - State Management: Redux, Context API  
 - UI/UX Enhancements with Framer Motion & Styled Components
