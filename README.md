@@ -1,23 +1,23 @@
 ### Hi there 👋, I am Emran Hasan Rifat
-#### A passionate Full-Stack Web Developer from Dhaka, Bangladesh
+#### A passionate Full-Stack Web Developer focused on Front-End Development
 
 ![Web Developer](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
 ![Profile views](https://gpvc.arturio.dev/emranrifat)
 
-I’m a **MERN Stack Web Developer** with over 3 years of experience in Front-End and 1+ year in Full-Stack Development. I’m passionate about crafting user-friendly, scalable, and high-performance web applications. My journey is fueled by real-world projects, active tech community involvement, and continuous learning.
+I’m a **Full-Stack Web Developer** with a focus on Front-End Development. With over 3 years of experience in front-end and 1+ year handling full-stack projects, I specialize in creating **pixel-perfect, responsive, and user-friendly web designs** using **ReactJS, NextJS, and Tailwind CSS**.
 
-🎓 I completed my B.Sc in Computer Science & Engineering (CSE) from **Daffodil International University** with a CGPA of **3.5/4.0**.
+On the back end, I manage **Node.js** with **Express.js**, and database operations with **MongoDB** using **Mongoose**. I also have hands-on experience working in collaborative environments, using **multiple Git branches** for smooth team workflows and version control.
 
-🏆 Certified in JavaScript (Basic) from HackerRank, Programming Hero (Batch-5), and was honored to represent in the **ICPC Dhaka Regional**.
+🎓 Graduated in Computer Science & Engineering (CSE) from **Daffodil International University** with a CGPA of **3.5/4.0**.
 
-🚀 I thrive on clean code, intuitive design, and solving real-world problems through tech.
+🏆 Certified by HackerRank (JavaScript Basic), completed the Programming Hero Course (Batch-5), and competed in the **ICPC Dhaka Regional**.
 
 ---
 
-- 🌱 Currently learning **Node.js & TypeScript**
-- 👯 Open to collaborate on **MERN Stack Projects**
+- 🌱 Currently working with **Node.js & TypeScript**
+- 👯 Open to collaborate on **Front-End Focused Full-Stack Projects**
 - 💼 All my projects are available at [My Portfolio](https://emranrifat.github.io/new-portfolio/)
-- 💬 Ask me about **React, JavaScript, Node.js, REST API**
+- 💬 Ask me about **React, JavaScript, NextJS, MongoDB**
 - 📫 Reach me at **imranrifat.dev@gmail.com**
 
 ---
@@ -32,28 +32,30 @@ I’m a **MERN Stack Web Developer** with over 3 years of experience in Front-En
 
 ---
 
-### 🛠️ Skills & Tools
+### 💻 Technical Skills
 
-**Languages & Design**  
-HTML5 | CSS3 | JavaScript | TypeScript | C
+**Front-End Expertise**  
+- Pixel-perfect UI Design  
+- Responsive Web Layouts  
+- ReactJS | NextJS | Tailwind CSS | Bootstrap | HTML5 | CSS3 | JavaScript | ES6  
+- State Management with Redux, Context API  
+- Animation with Framer Motion
 
-**Frameworks & Libraries**  
-ReactJS | NextJS | NodeJS | ExpressJS | Tailwind CSS | Bootstrap | Redux | Context API | Styled Components | Material UI | Framer Motion | REST API | OAuth
+**Back-End & Database**  
+- NodeJS | ExpressJS  
+- MongoDB with Mongoose  
+- REST APIs | Authentication (OAuth, JWT)
 
-**Database**  
-MongoDB | MySQL
-
-**Tools & DevOps**  
-Git | Npm | Postman | Vercel | Heroku | Netlify | Firebase | Figma | Docker | Nginx | Chrome DevTools | PgAdmin4
-
-**Familiar**  
-GraphQL | Socket.IO
+**Dev Tools & Familiar Tech**  
+- Git (multiple branch collaboration) | Postman | Figma | Firebase  
+- Deployment: Vercel | Heroku | Netlify  
+- Familiar: TypeScript | GraphQL | Socket.IO | Docker | Nginx
 
 ---
 
-### 🚀 Soft Skills
+### 🤝 Soft Skills
 
-✅ Communication  
+✅ Effective Communication  
 ✅ Team Collaboration & Leadership  
 ✅ Problem Solving  
 ✅ Time & Project Management
