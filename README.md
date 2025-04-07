@@ -1,77 +1,88 @@
+
 ### Hi there 👋, I am Emran Hasan Rifat
-#### A passionate Full-Stack Web Developer focused on Front-End Development
+#### A passionate Web Developer 
+![Web Developer ](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
+![Profile views](https://gpvc.arturio.dev/emranrifat)  
 
-![Web Developer](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
-![Profile views](https://gpvc.arturio.dev/emranrifat)
+I’m a MERN Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication.
 
-I’m a **Full-Stack Web Developer** with a focus on Front-End Development. With over 3 years of experience in front-end and 1+ year handling full-stack projects, I specialize in creating **pixel-perfect, responsive, and user-friendly web designs** using **ReactJS, NextJS, and Tailwind CSS**.
+- 🌱 I’m currently learning **NodeJS**
 
-On the back end, I manage **Node.js** with **Express.js**, and database operations with **MongoDB** using **Mongoose**. I also have hands-on experience working in collaborative environments, using **multiple Git branches** for smooth team workflows and version control.
+- 👯 I’m looking to collaborate on **MERN Stack Development**
 
-🎓 Graduated in Computer Science & Engineering (CSE) from **Daffodil International University** with a CGPA of **3.5/4.0**.
+- 👨‍💻 All of my projects are available at [https://emranrifat.github.io/new-portfolio/](https://emranrifat.github.io/new-portfolio/)
 
-🏆 Certified by HackerRank (JavaScript Basic), completed the Programming Hero Course (Batch-5), and competed in the **ICPC Dhaka Regional**.
+- 💬 Ask me about **react, javaScript etc**
 
----
+- 📫 How to reach me **imranrifat.dev@gmail.com**
 
-- 🌱 Currently working with **Node.js & TypeScript**
-- 👯 Open to collaborate on **Front-End Focused Full-Stack Projects**
-- 💼 All my projects are available at [My Portfolio](https://emranrifat.github.io/new-portfolio/)
-- 💬 Ask me about **React, JavaScript, NextJS, MongoDB**
-- 📫 Reach me at **imranrifat.dev@gmail.com**
-
----
-
-### 🌐 Connect with me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/emran-rifat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emran-rifat" height="30" width="40" /></a>
-<a href="https://www.facebook.com/emranhasan.rifat.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emranhasan.rifat.7" height="30" width="40" /></a>
-<a href="https://instagram.com/emran_hasan_rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emran_hasan_rifat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emran-rifat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emran-rifat/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/emranhasan.rifat.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/emranhasan.rifat.7" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/emran_hasan_rifat?igshid=zguzmzm3nwjioq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/emran_hasan_rifat?igshid=zguzmzm3nwjioq==" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 💻 Technical Skills
 
-**Front-End Expertise**  
-- Pixel-perfect UI Design  
-- Responsive Web Layouts  
-- ReactJS | NextJS | Tailwind CSS | Bootstrap | HTML5 | CSS3 | JavaScript | ES6  
-- State Management with Redux, Context API  
-- Animation with Framer Motion
 
-**Back-End & Database**  
-- NodeJS | ExpressJS  
-- MongoDB with Mongoose  
-- REST APIs | Authentication (OAuth, JWT)
 
-**Dev Tools & Familiar Tech**  
-- Git (multiple branch collaboration) | Postman | Figma | Firebase  
-- Deployment: Vercel | Heroku | Netlify  
-- Familiar: TypeScript | GraphQL | Socket.IO | Docker | Nginx
+[![trophy](https://github-profile-trophy.vercel.app/?username=emranrifat)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🤝 Soft Skills
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emranrifat&show_icons=true&count_private=true)  
 
-✅ Effective Communication  
-✅ Team Collaboration & Leadership  
-✅ Problem Solving  
-✅ Time & Project Management
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emranrifat)  
 
----
+![GitHub metrics](https://metrics.lecoq.io/emranrifat)  
 
-### 📊 GitHub Stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=emranrifat)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emranrifat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emranrifat&show_icons=true&count_private=true)
+### Hi there 👋, I am Emran Hasan Rifat
+#### A passionate Web Developer 
+![Web Developer ](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
+![Profile views](https://gpvc.arturio.dev/emranrifat)  
 
-![GitHub streak stats](https://streak-stats.demolab.com?user=emranrifat)
+I’m a MERN Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication.
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emranrifat)
+- 🌱 I’m currently learning **NodeJS**
 
-![GitHub metrics](https://metrics.lecoq.io/emranrifat)
+- 👯 I’m looking to collaborate on **MERN Stack Development**
+
+- 👨‍💻 All of my projects are available at [https://emranrifat.github.io/new-portfolio/](https://emranrifat.github.io/new-portfolio/)
+
+- 💬 Ask me about **react, javaScript etc**
+
+- 📫 How to reach me **imranrifat.dev@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emran-rifat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emran-rifat/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/emranhasan.rifat.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/emranhasan.rifat.7" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/emran_hasan_rifat?igshid=zguzmzm3nwjioq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/emran_hasan_rifat?igshid=zguzmzm3nwjioq==" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=emranrifat)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emranrifat&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emranrifat)  
+
+![GitHub metrics](https://metrics.lecoq.io/emranrifat)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=emranrifat)  
+
+
