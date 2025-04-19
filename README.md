@@ -4,13 +4,14 @@
 ![Web Developer](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
 ![Profile views](https://gpvc.arturio.dev/emranrifat)
 
-I'm a **Full-Stack Web Developer** with a strong emphasis on **Front-End Development**, and hands-on experience working on **MERN stack projects** as a full-stack developer. Based in Dhaka, Bangladesh, I bring over **3 years of professional experience in Front-End Development** and more than **1 year in Full-Stack Development**.
+I'm a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, with a strong focus on **Front-End Development** and hands-on experience in **MERN stack projects**.
 
-My passion lies in building **pixel-perfect**, **responsive**, and **high-performance** web applications that deliver intuitive user experiences and solve real-world problems.
+With over **3 years in Front-End** and **1+ year in Full-Stack Development**, I build **pixel-perfect**, **responsive**, and **high-performance** web applications.
 
-With a solid academic foundation—a B.Sc in Computer Science & Engineering (CSE) from **Daffodil International University** with a CGPA of **3.5/4.0**—I’ve translated theoretical knowledge into practical expertise through real-life projects and collaborative, team-based product development.
+My toolkit includes **React.js, Next.js, Tailwind CSS** on the frontend and **Node.js, Express.js, MongoDB (Mongoose)** on the backend. I’m also experienced in **Git-based collaborative workflows** and **multi-branch version control**.
 
-I’ve successfully contributed to multiple projects using the **MERN stack**, with **React.js, Next.js, and Tailwind CSS** forming the core of my front-end toolkit, and **Node.js, Express.js, and MongoDB (via Mongoose)** powering the backend. I'm also skilled in **collaborative team workflows using Git**, including **multi-branch version control in dynamic environments**.
+🎓 B.Sc in CSE from **Daffodil International University** (CGPA: 3.5/4.0)
+
 
 
 ---
