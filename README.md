@@ -45,6 +45,7 @@ My toolkit includes **React.js, Next.js, Tailwind CSS** on the frontend and **No
 - UI/UX Enhancements with Framer Motion & Styled Components
 
 **🔹 Back-End & Database**  
+- Go-Lang (Fiber),PostgreSQL
 - Node.js & Express.js for RESTful APIs  
 - MongoDB with Mongoose ODM  
 - Authentication & Authorization (JWT, OAuth)
