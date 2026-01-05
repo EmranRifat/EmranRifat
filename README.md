@@ -16,7 +16,7 @@ My toolkit includes **React.js, Next.js, Tailwind CSS** on the frontend and **No
 
 ---
 
-- 🌱 Currently working with experience integrating APIs built in **Python (Django)** and **PHP (Laravel)**
+- 🌱 Currently working with experience integrating APIs built in **GoLang(Fiber)** and **Python (Django)**
 - 💡 Focused on **Front-End Development** within full-stack environments
 - 👯 Actively looking to collaborate on **MERN Stack Projects**
 - 💼 Explore my work at [My Portfolio](https://emranrifat.github.io/new-portfolio/)
