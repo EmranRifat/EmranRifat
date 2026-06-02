@@ -1,83 +1,157 @@
-### Hi there 👋, I'm Emran Hasan Rifat
-#### A Passionate Full-Stack Web Developer Focused on Front-End Excellence
+# Hi 👋, I'm Emran Hasan Rifat
 
-![Web Developer](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
-![Profile views](https://gpvc.arturio.dev/emranrifat)
+### Full Stack Developer | React • Next.js • TypeScript • Go • Django • PostgreSQL
 
-I'm a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, with a strong focus on **Front-End Development** and hands-on experience in **MERN stack projects**.
-
-With over **3 years in Front-End** and **1+ year in Full-Stack Development**, I build **pixel-perfect**, **responsive**, and **high-performance** web applications.
-
-My toolkit includes **React.js, Next.js, Tailwind CSS** on the frontend and **Node.js, Express.js, MongoDB (Mongoose)** on the backend. I’m also experienced in **Git-based collaborative workflows** and **multi-branch version control**.
-
-🎓 B.Sc in CSE from **Daffodil International University** (CGPA: 3.5/4.0)
-
-
-
----
-
-- 🌱 Currently working with experience integrating APIs built in **GoLang (Fiber)** and **Python (Django)**
-- 💡 Focused on **Front-End Development** within full-stack environments
-- 👯 Actively looking to collaborate on **MERN Stack Projects**
-- 💼 Explore my work at [My Portfolio](https://emran-portfolio-ppe4.vercel.app/)
-- 💬 Ask me about **React, JavaScript, Next.js, Node.js, MongoDB**
-- 📫 Reach out: **imranrifat.dev@gmail.com**
-
----
-
-### 🌐 Let's Connect
+<img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="banner" width="100%" />
 
 <p align="left">
-<a href="https://www.linkedin.com/in/emran-rifat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/emranhasan.rifat.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/emran_hasan_rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=emranrifat&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+## 🚀 About Me
+
+I'm a **Full Stack Developer** from **Dhaka, Bangladesh** with **4+ years of experience** building scalable web applications and modern digital products.
+
+I specialize in creating high-performance applications using **React, Next.js, TypeScript, Go (Fiber), Django, PostgreSQL, and Cloud Technologies**.
+
+I enjoy designing clean architectures, secure APIs, responsive user interfaces, and deployment pipelines that help businesses scale efficiently.
+
+* 🔭 Currently working on Full Stack Web Applications
+* 🌱 Learning Advanced System Design, Cloud Infrastructure & AI Integration
+* 👯 Open to collaborating on SaaS, Startup, and Open Source projects
+* 💬 Ask me about React, Next.js, TypeScript, Go, Django, PostgreSQL, Docker
+* 🌍 Interested in Remote Opportunities Worldwide
+* 📫 Email: **[imranrifat.dev@gmail.com](mailto:imranrifat.dev@gmail.com)**
+* 🌐 Portfolio: **https://emran-portfolio-ppe4.vercel.app/**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,bootstrap" />
+</p>
+
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* Tailwind CSS
+* Redux Toolkit
+* Context API
+* Responsive UI Development
+* Framer Motion
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=golang,nodejs,express,django,python" />
+</p>
+
+* Go (Fiber)
+* Django & Django REST Framework
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* OAuth
+* Role-Based Access Control (RBAC)
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+* PostgreSQL
+* MongoDB
+* Redis
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,github,git,aws,linux" />
+</p>
+
+* Docker
+* Nginx
+* Git & GitHub
+* GitHub Actions (CI/CD)
+* Linux Server Management
+* AWS Fundamentals
+* Vercel Deployment
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,figma,firebase,vscode" />
+</p>
+
+* Postman
+* Figma
+* Firebase
+* VS Code
+
+---
+
+## 💼 Professional Highlights
+
+✅ Developed scalable full-stack applications using React, Next.js, Go, and Django
+
+✅ Designed secure authentication systems using JWT, Refresh Tokens, RBAC, and OAuth
+
+✅ Built RESTful APIs with Go Fiber and Django REST Framework
+
+✅ Implemented PostgreSQL database design, migrations, and optimization
+
+✅ Dockerized applications for development and production environments
+
+✅ Configured Nginx reverse proxies and deployment workflows
+
+✅ Worked with Agile teams using Git Flow, Pull Requests, and Code Reviews
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/emran-rifat/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+</a>
+
+<a href="https://www.facebook.com/emranhasan.rifat.7" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"/>
+</a>
+
+<a href="https://instagram.com/emran_hasan_rifat" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
+</a>
 </p>
 
 ---
 
-### 💻 Technical Expertise
+## 📊 GitHub Statistics
 
-**🔹 Front-End Development (Solid Skills)**  
-- Responsive Web Design, Pixel-perfect Layouts  
-- React.js, Next.js,TypeScript,Tailwind CSS, Bootstrap  
-- Advanced JavaScript (ES6+), HTML5, CSS3  
-- State Management: Redux, Context API  
-- UI/UX Enhancements with Framer Motion & Styled Components
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=emranrifat&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
 
-**🔹 Back-End & Database**  
-- Go-Lang (Fiber),PostgreSQL
-- Node.js & Express.js for RESTful APIs  
-- MongoDB with Mongoose ODM  
-- Authentication & Authorization (JWT, OAuth)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emranrifat&theme=tokyonight" />
+</p>
 
-**🔹 Developer Tools & Workflow**  
-- Git & GitHub (Branching, PRs, Team Collaboration)  
-- Postman | Figma | Firebase | Chrome DevTools  
-- Deployment: Vercel, Netlify, Heroku  
-- Familiar: TypeScript, GraphQL, Socket.IO, Docker, Nginx
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=emranrifat&theme=tokyonight&row=1&column=7" />
+</p>
 
 ---
 
-### 🔑 Soft Skills
+### ⚡ Fun Fact
 
-- 🗣️ Strong Communication  
-- 🤝 Team Collaboration & Leadership  
-- 🔍 Problem Solving Mindset  
-- ⏱️ Time & Project Management  
-- 📌 Goal-Oriented & Self-Motivated
-
----
-
-### 📊 GitHub Insights
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=emranrifat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emranrifat&show_icons=true&count_private=true)
-
-![GitHub streak stats](https://streak-stats.demolab.com?user=emranrifat)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emranrifat)
-
-![GitHub metrics](https://metrics.lecoq.io/emranrifat)
+I enjoy transforming complex business requirements into clean, scalable, and user-friendly software solutions.
