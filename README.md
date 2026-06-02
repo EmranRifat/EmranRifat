@@ -159,27 +159,17 @@ I enjoy designing clean architectures, secure APIs, responsive user interfaces, 
 </a>
 </p>
 
----
+
 
 ## 📊 GitHub Statistics
-
-<!-- <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emranrifat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat&layout=compact&theme=tokyonight" />
-</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=emranrifat&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emranrifat&theme=tokyonight&row=1&column=7&margin-w=15" />
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emranrifat&theme=tokyo-night" />
 </p>
----
 
 ### ⚡ Fun Fact
 
