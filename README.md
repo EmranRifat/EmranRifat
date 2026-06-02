@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** from **Dhaka, Bangladesh** with **4+ years of experience** building scalable web applications and modern digital products.
+I'm a **Full Stack Developer** from **Dhaka, Bangladesh** with **3+ years of experience** building scalable web applications and modern digital products.
 
 I specialize in creating high-performance applications using **React, Next.js, TypeScript, Go (Fiber), Django, PostgreSQL, and Cloud Technologies**.
 
