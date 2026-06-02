@@ -1,157 +1,137 @@
-# Hi 👋, I'm Emran Hasan Rifat
+# 👨‍💻 Emran Hasan Rifat
 
-### Full Stack Developer | React • Next.js • TypeScript • Go • Django • PostgreSQL
+### Full Stack Developer • AI-Augmented Engineer • Problem Solver
 
-<img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="banner" width="100%" />
+<img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" width="100%" alt="banner"/>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=emranrifat&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+Building scalable web applications with modern technologies and AI-powered development workflows.
 </p>
+
+---
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** from **Dhaka, Bangladesh** with **3+ years of experience** building scalable web applications and modern digital products.
+I'm a Full Stack Developer from Bangladesh passionate about building modern web applications, backend systems, and developer-focused solutions.
 
-I specialize in creating high-performance applications using **React, Next.js, TypeScript, Go (Fiber), Django, PostgreSQL, and Cloud Technologies**.
+I combine traditional software engineering with modern AI development workflows to deliver products faster while maintaining code quality, scalability, and security.
 
-I enjoy designing clean architectures, secure APIs, responsive user interfaces, and deployment pipelines that help businesses scale efficiently.
-
-* 🔭 Currently working on Full Stack Web Applications
-* 🌱 Learning Advanced System Design, Cloud Infrastructure & AI Integration
-* 👯 Open to collaborating on SaaS, Startup, and Open Source projects
-* 💬 Ask me about React, Next.js, TypeScript, Go, Django, PostgreSQL, Docker
-* 🌍 Interested in Remote Opportunities Worldwide
-* 📫 Email: **[imranrifat.dev@gmail.com](mailto:imranrifat.dev@gmail.com)**
-* 🌐 Portfolio: **https://emran-portfolio-ppe4.vercel.app/**
+```typescript
+const emran = {
+  role: "Full Stack Developer",
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Go Fiber", "Django", "Node.js", "Express"],
+  database: ["PostgreSQL", "MongoDB", "Redis"],
+  devops: ["Docker", "Nginx", "Linux", "CI/CD"],
+  aiWorkflow: [
+    "Cursor",
+    "GitHub Copilot",
+    "OpenAI Codex",
+    "Claude Code",
+    "ChatGPT"
+  ],
+  currentFocus: [
+    "System Design",
+    "AI-Assisted Development",
+    "Cloud Infrastructure",
+    "Scalable Backend Architecture"
+  ]
+}
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Do
+
+🔹 Build scalable Full Stack applications
+
+🔹 Design secure REST APIs and authentication systems
+
+🔹 Develop responsive and modern user interfaces
+
+🔹 Optimize PostgreSQL and MongoDB databases
+
+🔹 Containerize applications using Docker
+
+🔹 Deploy and manage production servers
+
+🔹 Accelerate development using AI-powered engineering workflows
+
+---
+
+## 🧠 AI-Powered Development
+
+Modern software development is evolving rapidly, and I actively use AI tools to improve productivity, code quality, testing, debugging, and documentation.
+
+### AI Engineering Stack
+
+* Cursor AI
+* GitHub Copilot
+* OpenAI Codex
+* Claude Code
+* ChatGPT
+* AI Code Review Workflows
+* Prompt Engineering
+* AI-Assisted Refactoring
+* AI-Driven Documentation Generation
+
+---
+
+## 🛠 Technology Stack
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,bootstrap" />
-</p>
-
-* React.js
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* Tailwind CSS
-* Redux Toolkit
-* Context API
-* Responsive UI Development
-* Framer Motion
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Redux • Bootstrap
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=golang,nodejs,express,django,python" />
-</p>
-
-* Go (Fiber)
-* Django & Django REST Framework
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-* OAuth
-* Role-Based Access Control (RBAC)
+Go (Fiber) • Django • Django REST Framework • Node.js • Express.js
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
+PostgreSQL • MongoDB • Redis
 
-* PostgreSQL
-* MongoDB
-* Redis
+### DevOps
 
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,github,git,aws,linux" />
-</p>
-
-* Docker
-* Nginx
-* Git & GitHub
-* GitHub Actions (CI/CD)
-* Linux Server Management
-* AWS Fundamentals
-* Vercel Deployment
+Docker • Nginx • Linux • GitHub Actions • CI/CD
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=postman,figma,firebase,vscode" />
-</p>
-
-* Postman
-* Figma
-* Firebase
-* VS Code
+Git • GitHub • Postman • Figma • Firebase • VS Code
 
 ---
 
-## 💼 Professional Highlights
+## 📈 Currently Exploring
 
-✅ Developed scalable full-stack applications using React, Next.js, Go, and Django
-
-✅ Designed secure authentication systems using JWT, Refresh Tokens, RBAC, and OAuth
-
-✅ Built RESTful APIs with Go Fiber and Django REST Framework
-
-✅ Implemented PostgreSQL database design, migrations, and optimization
-
-✅ Dockerized applications for development and production environments
-
-✅ Configured Nginx reverse proxies and deployment workflows
-
-✅ Worked with Agile teams using Git Flow, Pull Requests, and Code Reviews
+* AI Agents for Software Development
+* MCP (Model Context Protocol)
+* System Design
+* Cloud Architecture
+* Advanced PostgreSQL Optimization
+* AI-Powered SaaS Applications
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/emran-rifat/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
-</a>
+💼 Portfolio: https://emran-portfolio-ppe4.vercel.app
 
-<a href="https://www.facebook.com/emranhasan.rifat.7" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"/>
-</a>
+💼 LinkedIn: https://linkedin.com/in/emran-rifat
 
-<a href="https://instagram.com/emran_hasan_rifat" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
-</a>
-</p>
+📧 Email: [imranrifat.dev@gmail.com](mailto:imranrifat.dev@gmail.com)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emranrifat&show_icons=true&count_private=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emranrifat\&show_icons=true\&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emranrifat&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=emranrifat\&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=emranrifat&theme=tokyonight&row=1&column=7" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat\&layout=compact\&theme=tokyonight)
 
 ---
 
-### ⚡ Fun Fact
+### 💭 Developer Philosophy
 
-I enjoy transforming complex business requirements into clean, scalable, and user-friendly software solutions.
+"AI won't replace developers. Developers who effectively leverage AI will replace those who don't."
