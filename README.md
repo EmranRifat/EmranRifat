@@ -1,87 +1,33 @@
-### Hi there 👋, I'm Emran Hasan Rifat
+## 🚀 About Me
 
-#### Full-Stack Web Developer | React • Next.js • Go • Django • AI-Augmented Developer
+I'm a **Full Stack Developer** from **Dhaka, Bangladesh** with **4+ years of experience** building scalable web applications and modern digital products.
 
-![Web Developer](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
-![Profile views](https://gpvc.arturio.dev/emranrifat)
+I specialize in creating high-performance applications using **React, Next.js, TypeScript, Go (Fiber), Django, PostgreSQL, and Cloud Technologies**.
 
-I'm a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, with a strong focus on building modern, scalable, and high-performance web applications.
+I leverage modern **AI-assisted development workflows** to accelerate development, improve code quality, automate testing, streamline documentation, and deliver solutions faster.
 
-With over **3+ years of Front-End Development** and **1+ year of Full-Stack Development** experience, I specialize in creating **responsive**, **user-friendly**, and **production-ready** digital solutions.
+I enjoy designing clean architectures, secure APIs, responsive user interfaces, and deployment pipelines that help businesses scale efficiently.
 
-My expertise spans **React.js, Next.js, TypeScript, Tailwind CSS** on the frontend and **Go (Fiber), Django, Node.js, PostgreSQL, MongoDB** on the backend. I also leverage modern **AI-assisted development workflows** to improve productivity, code quality, testing, debugging, and documentation.
-
-🎓 B.Sc in CSE from **Daffodil International University** (CGPA: 3.5/4.0)
-
----
-
-* 🌱 Currently working with **Go (Fiber), Django, PostgreSQL, and Next.js**
-* 🤖 Actively leveraging **AI-assisted development tools and workflows**
-* 💡 Passionate about building scalable Full-Stack applications
-* 👯 Open to collaborating on **MERN, Go, and Django-based projects**
-* 💼 Explore my work at [My Portfolio](https://emran-portfolio-ppe4.vercel.app/)
-* 💬 Ask me about **React, Next.js, TypeScript, Go, Django, Node.js, PostgreSQL, MongoDB**
-* 📫 Reach out: **[imranrifat.dev@gmail.com](mailto:imranrifat.dev@gmail.com)**
+* 🔭 Currently working on Full Stack Web Applications
+* 🤖 Using AI-powered development tools to enhance productivity
+* 🌱 Learning Advanced System Design, Cloud Infrastructure & AI Integration
+* 👯 Open to collaborating on SaaS, Startup, and Open Source projects
+* 💬 Ask me about React, Next.js, TypeScript, Go, Django, PostgreSQL, Docker
+* 🌍 Interested in Remote Opportunities Worldwide
+* 📫 Email: **[imranrifat.dev@gmail.com](mailto:imranrifat.dev@gmail.com)**
+* 🌐 Portfolio: **https://emran-portfolio-ppe4.vercel.app/**
 
 ---
 
-### 🌐 Let's Connect
+## 🧠 AI-Powered Development
 
-<p align="left">
-<a href="https://www.linkedin.com/in/emran-rifat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/emranhasan.rifat.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/emran_hasan_rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+Modern software development is evolving rapidly, and I actively use AI tools to improve productivity, code quality, debugging, testing, documentation, and development workflows.
+
+### AI Engineering Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
-
----
-
-### 💻 Technical Expertise
-
-**🔹 Front-End Development**
-
-* Responsive Web Design & Pixel-perfect Layouts
-* React.js, Next.js, TypeScript
-* Tailwind CSS, Bootstrap
-* Advanced JavaScript (ES6+)
-* HTML5, CSS3
-* Redux Toolkit, Context API
-* Framer Motion
-
-**🔹 Back-End & Database**
-
-* Go (Fiber)
-* Django & Django REST Framework
-* Node.js & Express.js
-* PostgreSQL
-* MongoDB (Mongoose)
-* Redis
-* RESTful API Development
-* Authentication & Authorization (JWT, OAuth, RBAC)
-
-**🔹 DevOps & Deployment**
-
-* Docker
-* Nginx
-* Linux Server Management
-* GitHub Actions (CI/CD)
-* Vercel, Netlify
-* Git & GitHub Workflow
-
-**🔹 Developer Tools**
-
-* Postman
-* Figma
-* Firebase
-* Chrome DevTools
-* VS Code
-
----
-
-### 🧠 AI-Powered Development
-
-Modern software development is evolving rapidly, and I actively use AI tools to accelerate development, improve code quality, automate repetitive tasks, and enhance productivity.
-
-**🔹 AI Engineering Stack**
 
 * Cursor AI
 * GitHub Copilot
@@ -89,45 +35,32 @@ Modern software development is evolving rapidly, and I actively use AI tools to 
 * Claude Code
 * ChatGPT
 
-**🔹 AI Development Workflow**
+### AI Workflow
 
 * AI-Assisted Development
 * Prompt Engineering
 * AI Code Review
 * AI-Assisted Refactoring
+* AI-Powered Debugging
 * AI-Driven Documentation
-* AI-Powered Debugging & Testing
-* Workflow Automation
+* Automated Development Workflows
 
 ---
 
-### 🔑 Soft Skills
+## 💼 Professional Highlights
 
-* 🗣️ Strong Communication
-* 🤝 Team Collaboration
-* 🔍 Problem Solving
-* ⏱️ Time Management
-* 📌 Self-Motivated & Goal-Oriented
-* 🚀 Continuous Learning Mindset
+✅ Developed scalable full-stack applications using React, Next.js, Go, and Django
 
----
+✅ Designed secure authentication systems using JWT, Refresh Tokens, RBAC, and OAuth
 
-### 📊 GitHub Insights
+✅ Built RESTful APIs with Go Fiber and Django REST Framework
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emranrifat\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+✅ Implemented PostgreSQL database design, migrations, and optimization
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emranrifat\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+✅ Leveraged AI-powered development tools to accelerate coding, debugging, testing, and documentation
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emranrifat\&show_icons=true\&count_private=true)
+✅ Dockerized applications for development and production environments
 
-![GitHub streak stats](https://streak-stats.demolab.com?user=emranrifat)
+✅ Configured Nginx reverse proxies and deployment workflows
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emranrifat)
-
-![GitHub metrics](https://metrics.lecoq.io/emranrifat)
-
----
-
-### ⚡ Fun Fact
-
-I enjoy combining traditional software engineering with modern AI-powered development workflows to build better products faster while maintaining clean architecture, performance, and code quality.
+✅ Worked with Agile teams using Git Flow, Pull Requests, and Code Reviews
